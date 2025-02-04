@@ -1,7 +1,7 @@
 # Airport-Operations-Scheduling
 
 ## LM: Artificial Intelligence & Robotics - P&R assignment 
-[Fabrizio Italia](https://github.com/fabrizio-18), [Stefano D'Urso](https://github.com/stefa350), [Vincenzo Crisà](https://github.com/crisa11)
+[Vincenzo Crisà](https://github.com/crisa11), [Fabrizio Italia](https://github.com/fabrizio-18), [Stefano D'Urso](https://github.com/stefa350).
 
 Sapienza University of Rome, Italy
 
